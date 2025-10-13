@@ -45,14 +45,12 @@ More badges at https://github.com/inttter/md-badges
 
 ### :open_hands: Looking for a mentor or to book a time to chat?
 
-> [!TIP]
-> - [Women coding community](https://www.womencodingcommunity.com/mentors?keywords=Gabriel%20Oliveira)
-> - [ADPList](https://adplist.org/mentors/gabriel-oliveira)
-> - [Calendly](https://calendly.com/gabriel-pa-oliveira)
+- [Women coding community](https://www.womencodingcommunity.com/mentors?keywords=Gabriel%20Oliveira)
+- [ADPList](https://adplist.org/mentors/gabriel-oliveira)
+- [Calendly](https://calendly.com/gabriel-pa-oliveira)
   
 ### :office: Client or employer?
-> [!NOTE]  
-> [Download my resume/CV](https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing)
+- [Download my resume/CV](https://drive.google.com/file/d/1wglRrnlEkbzCUPGeUw-zNwthqVEe_Jg_/view?usp=sharing)
 
 <!--
 **gpaOliveira/gpaOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
