@@ -5,6 +5,8 @@
 
 I’m a pragmatic question-asker who helps software teams deliver better results by developing and maintaining automated tests, collaborating across disciplines to build a shared understanding of user flows, and providing timely feedback to stakeholders. I’m curious by nature and unafraid to dive into unfamiliar code to uncover the root of a problem. I’m also passionate about improving how teams work—exploring alternative approaches, challenging assumptions, and fostering a culture of continuous learning and collaboration.
 
+-----
+
 ### :computer: Technology
 
 <!--
@@ -48,13 +50,20 @@ More badges at https://github.com/inttter/md-badges
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Codecov](https://img.shields.io/badge/Codecov-F01F7A?logo=codecov&logoColor=fff)](#)
 [![SonarQube Cloud](https://img.shields.io/badge/SonarQube%20Cloud-126ED3?logo=sonarqubecloud&logoColor=fff)](#)
+-----
+
+### 📂 Featured Projects
+
+- [Typescript Playwright tests for Saucedemo](https://github.com/gpaOliveira/saucedemo-playwright), a modular test automation framework supporting tests for the [Saucedemo website](https://www.saucedemo.com/).
+-----
 
 ### :open_hands: Looking for a mentor or to book a time to chat?
 
 - [Women coding community](https://www.womencodingcommunity.com/mentors?keywords=Gabriel%20Oliveira)
 - [ADPList](https://adplist.org/mentors/gabriel-oliveira)
 - [Calendly](https://calendly.com/gabriel-pa-oliveira)
-  
+-----
+
 ### :office: Client or employer?
 <!--
 - [Download my resume/CV](https://drive.google.com/file/d/1wglRrnlEkbzCUPGeUw-zNwthqVEe_Jg_/view)
