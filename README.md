@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/gpaoliveira/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:gabriel.pa.oliveira@gmail.com)
+[![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](https://gpaoliveirablog.wordpress.com/)
 
 I’m a pragmatic question-asker who helps software teams deliver better results by developing and maintaining automated tests, collaborating across disciplines to build a shared understanding of user flows, and providing timely feedback to stakeholders. I’m curious by nature and unafraid to dive into unfamiliar code to uncover the root of a problem. I’m also passionate about improving how teams work—exploring alternative approaches, challenging assumptions, and fostering a culture of continuous learning and collaboration.
 
@@ -66,9 +67,9 @@ More badges at https://github.com/inttter/md-badges
 
 ### :office: Client or employer?
 <!--
-- [Download my resume/CV](https://drive.google.com/file/d/1wglRrnlEkbzCUPGeUw-zNwthqVEe_Jg_/view)
--->
 - [Download my resume/CV](https://drive.google.com/file/d/1e5maJnJM9bL778UvU2qdHS-PQO6VPmsw/view)
+-->
+- [Download my resume/CV](https://drive.google.com/file/d/1NLyqSdWYL8IrMCr3phGDx1onAlViHh7k/view)
 
 <!--
 **gpaOliveira/gpaOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
