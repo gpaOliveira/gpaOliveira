@@ -56,6 +56,7 @@ More badges at https://github.com/inttter/md-badges
 ### 📂 Featured Projects
 
 - [Typescript Playwright tests for Saucedemo](https://github.com/gpaOliveira/saucedemo-playwright), a modular test automation framework supporting tests for the [Saucedemo website](https://www.saucedemo.com/).
+- [Python (Pytest) Playwright tests for GlobalsQA](https://github.com/gpaOliveira/python-playwright-globalsqa), another test automation framework, supporting tests for Playwright using Python, to test the [GlobalsQA BankingProject](https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login).
 -----
 
 ### :open_hands: Looking for a mentor or to book a time to chat?
